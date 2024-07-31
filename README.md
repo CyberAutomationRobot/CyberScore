@@ -29,7 +29,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 ## Installation
 
 1. **Download CyberScore**: Download the appropriate version for your Windows or Mac system from Github or our official website.
-2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Analyze" button.
+2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
 
 ## Support
 
