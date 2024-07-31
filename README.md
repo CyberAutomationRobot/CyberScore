@@ -1,4 +1,7 @@
-<img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/cyber%20automation%209.png" alt="Cyber Automation" width="180" height="160">  
+<h1 align="center">
+  <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/cyber%20automation%209.png" alt="Cyber Automation" width="180" height="160">
+  CyberScore
+</h1>
 
 # CyberScore
 
