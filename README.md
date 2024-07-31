@@ -30,7 +30,8 @@ After running these tests, CyberScore provides you with a score reflecting the c
 
 ## Installation
 
-![Windows](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">
 1. **Download CyberScore**: Download the Windows CyberScore.exe from Github or our official website - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScore.exe)
 2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
 
