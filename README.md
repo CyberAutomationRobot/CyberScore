@@ -1,4 +1,5 @@
-<img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/cyber%20automation%209.png" alt="Cyber Automation" width="180" height="160">   # CyberScore
+<img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/cyber%20automation%209.png" alt="Cyber Automation" width="180" height="160">  
+# CyberScore
 
 
 Welcome to CyberScore, a comprehensive security tool available for both Windows and Mac. CyberScore is designed to evaluate the effectiveness of several key security measures on your computer, giving you insights and tools to enhance your system's security posture.
