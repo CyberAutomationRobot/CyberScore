@@ -30,12 +30,11 @@ After running these tests, CyberScore provides you with a score reflecting the c
 
 ## Installation
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">
+**WINDOWS** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">
 1. **Download CyberScore**: Download the Windows CyberScore.exe from Github or our official website - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScore.exe)
 2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
 
-![Apple](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg)
+**Mac** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">
 1. **Download CyberScore**: Download the Mac CyberScoreMacOS.zip from Github or our official website - [MacOS Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScoreMacOS.zip)
 2. **Unzip CyberScore**: Double click on the CyberScoreMacOS.zip to unzip it
 3. **Run CyberScore**: Open CyberScore App and start the security assessment by clicking on the "Score" button.
