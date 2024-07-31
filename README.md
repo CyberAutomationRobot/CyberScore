@@ -30,7 +30,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 - **Eicar Test Virus**: CyberScore uses the eicar test virus to test the response of your anti-virus software. This file is not a real virus but a test file used universally to test anti-virus protection. If your system reacts to this file, it is a good indication that your anti-virus is active and effective. If you see an alert or the file executes, simply close it; it is harmless.
 - **False Positives**: Due to the nature of the eicar test virus, some anti-virus programs may detect CyberScore as malware. This detection is a false positive that can be safely ignored.
 
-## Installation
+## How to use it
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
 1. **Download CyberScore**: Download the Windows CyberScore.exe from Github or our official website - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScore.exe)
