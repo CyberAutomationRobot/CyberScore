@@ -22,7 +22,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 
 ### Secure and Undo Features
 
-- **Secure Button**: With a single click, you can harden your computer's security settings to enhance your Cyber Score. This feature adjusts settings based on the [ACSC's Essential 8](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-explained). 
+- **Secure Button**: With a single click, you can harden your computer's security settings to enhance your Cyber Score. This feature adjusts settings based on the [ACSC's Essential 8](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-explained). Available for Windows Only at this stage.
 - **Undo Button**: If the changes lead to operational issues, you can revert to the original settings with the Undo feature.
 
 ## Important Notes
