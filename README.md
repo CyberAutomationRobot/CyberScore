@@ -1,4 +1,4 @@
-![Logo](https://github.com/CyberAutomationRobot/CyberScore/blob/main/cyber%20automation%209.png)
+![Logo](https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/cyber%20automation%209.png)
 
 # CyberScore
 
