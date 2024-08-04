@@ -6,6 +6,17 @@
 
 Welcome to CyberScore, a comprehensive security tool available for both Windows and Mac. CyberScore is designed to evaluate the effectiveness of several key security measures on your computer, giving you insights and tools to enhance your system's security posture.
 
+## How to use it
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
+1. **Download CyberScore**: Download the Windows CyberScore.exe from Github or our official website - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScore.exe)
+2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">  **Mac** 
+1. **Download CyberScore**: Download the Mac CyberScoreMacOS.zip from Github or our official website - [MacOS Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScoreMacOS.zip)
+2. **Unzip CyberScore**: Double click on the CyberScoreMacOS.zip to unzip it
+3. **Run CyberScore**: Open CyberScore App and start the security assessment by clicking on the "Score" button.
+
 ## Features
 
 CyberScore evaluates the following areas of your system:
@@ -30,16 +41,19 @@ After running these tests, CyberScore provides you with a score reflecting the c
 - **Eicar Test Virus**: CyberScore uses the eicar test virus to test the response of your anti-virus software. This file is not a real virus but a test file used universally to test anti-virus protection. If your system reacts to this file, it is a good indication that your anti-virus is active and effective. If you see an alert or the file executes, simply close it; it is harmless.
 - **False Positives**: Due to the nature of the eicar test virus, some anti-virus programs may detect CyberScore as malware. This detection is a false positive that can be safely ignored.
 
-## How to use it
+## Verified and Safe to Use
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
-1. **Download CyberScore**: Download the Windows CyberScore.exe from Github or our official website - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScore.exe)
-2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
+1. **Enhanced Verification Signed Certificate**: The Windows CyberScore.exe has been signed and is safe for use.
+2. **Signed Certificate Details**:
+   <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_Certificate_info.png" alt="CertificateInfo" width="120" height="100">
+   <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_EVCertificate_General.png" alt="CertificateGeneral" width="60" height="100">
+   <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_EVCertificate_Path.png" alt="CertificatePath" width="60" height="100">
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">  **Mac** 
-1. **Download CyberScore**: Download the Mac CyberScoreMacOS.zip from Github or our official website - [MacOS Download](https://github.com/CyberAutomationRobot/CyberScore/blob/main/CyberScoreMacOS.zip)
-2. **Unzip CyberScore**: Double click on the CyberScoreMacOS.zip to unzip it
-3. **Run CyberScore**: Open CyberScore App and start the security assessment by clicking on the "Score" button.
+1. **Apple Signed Certificate**: The Mac CyberScoreMacOS.zip has been signed by Apple and is safe for use.
+2. **Signed Certificate Details**:
+   <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Apple_Codesign_Verification.png" alt="CertificateApple" width="120" height="120">
 
 ## Support
 
