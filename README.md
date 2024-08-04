@@ -46,7 +46,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
 1. **Enhanced Verification Signed Certificate**: The Windows CyberScore.exe has been signed and is safe for use.
 2. **Signed Certificate Details**:
-   <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_Certificate_info.png" alt="CertificateInfo" width="360" height="300">
+   <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_Certificate_info.png" alt="CertificateInfo" width="460" height="400">
    <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_EVCertificate_General.png" alt="CertificateGeneral" width="180" height="300">
    <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Windows_EVCertificate_Path.png" alt="CertificatePath" width="180" height="300">
 
