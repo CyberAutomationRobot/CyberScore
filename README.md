@@ -4,7 +4,9 @@
 </h1>
 
 
-Welcome to CyberScore, a comprehensive security tool available for both Windows and Mac. CyberScore is designed to evaluate the effectiveness of several key security measures on your computer, giving you insights and tools to enhance your system's security posture.
+Welcome to CyberScore, a comprehensive security tool available for both Windows and Mac. CyberScore is designed to evaluate the effectiveness of several key security measures on your computer, giving you insights and tools to enhance your system's security posture.  
+![Demostration Video]((https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/CyberScore_Score_Video.gif))
+
 
 ## How to use it
 
