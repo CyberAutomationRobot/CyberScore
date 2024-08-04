@@ -52,7 +52,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">  **Mac** 
 1. **Apple Signed Certificate**: The Mac CyberScoreMacOS.zip has been signed by Apple and is safe for use.
-2. **Signed Certificate Details**:
+2. **Signed Certificate Details**:  
    <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Apple_Codesign_Verification.png" alt="CertificateApple" width="360" height="360">
 
 ## Support
