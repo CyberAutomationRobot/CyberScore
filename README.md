@@ -33,11 +33,6 @@ CyberScore evaluates the following areas of your system:
 
 After running these tests, CyberScore provides you with a score reflecting the current security status of your system along with detailed recommendations on how to improve your defenses.
 
-### Secure and Undo Features
-
-- **Secure Button**: With a single click, you can harden your computer's security settings to enhance your Cyber Score. This feature adjusts settings based on the [ACSC's Essential 8](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-explained). Available for Windows Only at this stage.
-- **Undo Button**: If the changes lead to operational issues, you can revert to the original settings with the Undo feature.
-
 ## Important Notes
 
 - **Eicar Test Virus**: CyberScore uses the eicar test virus to test the response of your anti-virus software. This file is not a real virus but a test file used universally to test anti-virus protection. If your system reacts to this file, it is a good indication that your anti-virus is active and effective. If you see an alert or the file executes, simply close it; it is harmless.
@@ -56,6 +51,13 @@ After running these tests, CyberScore provides you with a score reflecting the c
 1. **Apple Signed Certificate**: The Mac CyberScoreMacOS.zip has been signed by Apple and is safe for use.
 2. **Signed Certificate Details**:  
    <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Apple_Codesign_Verification.png" alt="CertificateApple" width="360" height="360">
+
+### Secure and Undo Features
+
+- **Secure Button**: With a single click, you can harden your computer's security settings to enhance your Cyber Score. This feature adjusts settings based on the [ACSC's Essential 8](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-explained). Available for Windows Only at this stage.  
+![Hardening Demostration Video](images/CyberScore_Secure_Video.gif)
+- **Undo Button**: If the changes lead to operational issues, you can revert to the original settings with the single click Undo feature.
+
 
 ## Support
 
