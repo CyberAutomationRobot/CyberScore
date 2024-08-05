@@ -54,7 +54,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 2. **Signed Certificate Details**:  
    <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Apple_Codesign_Verification.png" alt="CertificateApple" width="360" height="360">
 
-### Secure and Undo Features
+### Secure and Undo Features (PAID Subscription)
 
 - **Secure Button**: With a single click, you can harden your computer's security settings to enhance your Cyber Score. This feature adjusts settings based on the [ACSC's Essential 8](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-explained). Available for Windows Only at this stage.  
 ![Hardening Demostration Video](images/CyberScore_Secure_Video.gif)
