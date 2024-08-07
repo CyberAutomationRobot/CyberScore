@@ -36,7 +36,9 @@ After running these tests, CyberScore provides you with a score reflecting the c
 ## Important Notes
 
 - **Eicar Test Virus**: CyberScore uses the eicar test virus to test the response of your anti-virus software. This file is not a real virus but a test file used universally to test anti-virus protection. If your system reacts to this file, it is a good indication that your anti-virus is active and effective. If you see an alert or the file executes, simply close it; it is harmless.
-- **False Positives**: Due to the nature of the eicar test virus, some anti-virus programs may detect CyberScore as malware. This detection is a false positive that can be safely ignored.  
+- **False Positives**: Due to the nature of the eicar test virus, some anti-virus programs may detect CyberScore as malware. This detection is a false positive that can be safely ignored.
+- **Eicar Files Opened**: Your anti-virus can make mistakes and sometimes the Eicar test signature files will open. Don't worry if this happens, just close those files and wait for the report to finish in your Web Browser.
+- **CyberScore is quarantined or Blocked**: If CyberScore is blocked because your anti-virus detected the Eicar test signatures, just un-quarantine the CyberScore application and execute it. Do not disable your anti-virus.  
   <img src="images/Bitdefender_notification.png"  alt="Bitdefender_notification" width="360" height="360">
   <img src="images/Defender_Alert.jpeg"  alt="DefenderAlert" width="360" height="360">
 
@@ -54,7 +56,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 2. **Signed Certificate Details**:  
    <img src="https://github.com/CyberAutomationRobot/CyberScore/blob/main/images/Apple_Codesign_Verification.png" alt="CertificateApple" width="360" height="360">
 
-### Secure and Undo Features (PAID Subscription)
+### Secure and Undo Features (Paid Subscription)
 
 - **Secure Button**: With a single click, you can harden your computer's security settings to enhance your Cyber Score. This feature adjusts settings based on the [ACSC's Essential 8](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-explained). Available for Windows Only at this stage.  
 ![Hardening Demostration Video](images/CyberScore_Secure_Video.gif)
