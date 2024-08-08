@@ -39,6 +39,7 @@ After running these tests, CyberScore provides you with a score reflecting the c
 - **False Positives**: Due to the nature of the eicar test virus, some anti-virus programs may detect CyberScore as malware. This detection is a false positive that can be safely ignored.
 - **Eicar Files Opened**: Your anti-virus can make mistakes and sometimes the Eicar test signature files will open. Don't worry if this happens, just close those files and wait for the report to finish in your Web Browser.
 - **CyberScore is quarantined or Blocked**: If CyberScore is blocked because your anti-virus detected the Eicar test signatures, just un-quarantine the CyberScore application and execute it. **Do not disable your anti-virus**.  
+  <img src="images/VirusTotal-Header.png"  alt="Bitdefender_notification" width="1200" height="60">
   <img src="images/Bitdefender_notification.png"  alt="Bitdefender_notification" width="360" height="360">
   <img src="images/Defender_Alert.jpeg"  alt="DefenderAlert" width="360" height="360">
 
