@@ -11,11 +11,24 @@ Welcome to CyberScore, a comprehensive security tool available for both Windows 
 ## How to use it
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
-1. **Download CyberScore**: Download the Windows CyberScore.exe from Github - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/CyberScore.exe)
+1. **Download CyberScore**: Download the Windows CyberScore.exe from Github - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/Versions/Basic/CyberScore.exe)
 2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">  **Mac** 
-1. **Download CyberScore**: Download the Mac CyberScoreMacOS.zip from Github - [MacOS Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/CyberScoreMacOS.zip)
+1. **Download CyberScore**: Download the Mac CyberScoreMacOS.zip from Github - [MacOS Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/Versions/Basic/CyberScoreMacOS.zip)
+2. **Unzip CyberScore**: Double click on the CyberScoreMacOS.zip to unzip it
+3. **Run CyberScore**: Open CyberScore App and start the security assessment by clicking on the "Score" button.
+
+## Advanced Users Only
+
+This advanced version has a console window to show the tests (behind the covers) and it is more comprehensive as it tests how effective your anti-malware protection is in preventing simultaneous malware events in quick succession.
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
+1. **Download CyberScore**: Download the Windows CyberScore.exe from Github - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/Versions/Advanced/CyberScore.exe)
+2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">  **Mac** 
+1. **Download CyberScore**: Download the Mac CyberScoreMacOS.zip from Github - [MacOS Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/Versions/Advanced/CyberScoreMacOS.zip)
 2. **Unzip CyberScore**: Double click on the CyberScoreMacOS.zip to unzip it
 3. **Run CyberScore**: Open CyberScore App and start the security assessment by clicking on the "Score" button.
 
@@ -25,7 +38,7 @@ CyberScore evaluates the following areas of your system:
 
 - **Application Whitelist Effectiveness**: Checks if unauthorized applications are blocked from running.
 - **Office Macro Protection**: Tests protections against potentially malicious macros.
-- **Anti-virus Efficiency**: Utilizes the eicar test virus to determine if your anti-virus software is effectively detecting and blocking threats.
+- **Anti-virus Efficiency**: (Advanced Users only) Utilizes the eicar test virus to determine if your anti-virus software is effectively detecting and blocking threats.
 - **Script Execution Safeguards**: Assesses the restrictions placed on script execution to prevent unauthorized scripts from running.
 - **Open File Shares**: Identifies open file shares that might be at risk, especially if they contain sensitive information.
 - **Default Credentials on Routers**: Scans for common default usernames and passwords that are often exploited.
@@ -33,7 +46,7 @@ CyberScore evaluates the following areas of your system:
 
 After running these tests, CyberScore provides you with a score reflecting the current security status of your system along with detailed recommendations on how to improve your defenses.
 
-## Important Notes
+## Important Notes for the Advanced Version
 
 - **CyberScore does NOT contain viruses**: The screenshot below from VirusTotal shows that all commercial anti-virus products deem CyberScore to be safe.
   <img src="images/VirusTotal-Complete.png"  alt="VirusTotal-Overview" width="500" height="1000">
