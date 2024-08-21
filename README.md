@@ -11,7 +11,7 @@ Welcome to CyberScore, a comprehensive security tool available for both Windows 
 ## How to use it
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="Windows" width="40" height="40">  **WINDOWS** 
-1. **Download CyberScore**: Download the Windows CyberScore.exe from Github - [Windows Download](https://github.com/CyberAutomationRobot/CyberScore/raw/main/Versions/Basic/CyberScore.exe)
+1. **Download CyberScore**: Download the Windows CyberScore.exe from the [Microsoft App Store](https://apps.microsoft.com/detail/xp9d5qrpt3rd7z?ocid=webpdpshare) or [GitHub](https://github.com/CyberAutomationRobot/CyberScore/raw/main/Versions/Basic/CyberScore.exe)
 2. **Run CyberScore**: Open CyberScore and start the security assessment by clicking on the "Score" button.
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apple.svg" alt="Apple" width="40" height="40">  **Mac** 
